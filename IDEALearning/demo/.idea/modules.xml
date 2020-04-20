@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../com.wf.oa.accountdel.iml" filepath="$PROJECT_DIR$/../com.wf.oa.accountdel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.wf.oa.accountdelete.iml" filepath="$PROJECT_DIR$/com.wf.oa.accountdelete.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo.iml" filepath="$PROJECT_DIR$/demo.iml" />
     </modules>
   </component>
